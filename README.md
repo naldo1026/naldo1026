@@ -1,14 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ronaldo</h1>
-<h3 align="center">A passionate full-stack developer looking for a role in either Front end or Back end</h3>
-
-- 🌱 I’m currently learning **React and C++**
-
-- 👨‍💻 All of my projects are available at [https://naldo1026.github.io/profile/](https://naldo1026.github.io/profile/)
-
-- 📫 How to reach me **rgoncalves1026@gmail.com**
-
-- ⚡ Fun fact **I think I am funny and I really like fantasy premier league**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in//ronaldogon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="/ronaldogon" height="30" width="40" /></a>
